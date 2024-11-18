@@ -89,7 +89,6 @@
                     <mainClass>com.javarush.games.racer.RacerGame</mainClass>
                 </configuration>
             </plugin>
-
             <!-- Create jar with dependencies -->
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
